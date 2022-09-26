@@ -1,6 +1,13 @@
-# vnia_site
+## Build Setup
 
-A new Flutter project.
+```bash
+# install dependencies
+$ flutter pub get
+
+# serve with hot reload
+$ flutter run
+
+```
 
 ## Getting Started
 
