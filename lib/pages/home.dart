@@ -57,15 +57,9 @@ class _HomeState extends State<Home> {
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[
-                GestureDetector(
-                  onTap: (){
-                    _launchURL("https://www.instagram.com/violetavior/");
-                  },
-                    child: Image.asset("assets/instagram.png", width: 23,height: 23,)
-                ),
-                SizedBox(
-                  width: 16,
-                ),
+                
+
+
                 GestureDetector(
                   onTap: (){
                     _launchURL("https://t.me/vnia666");
